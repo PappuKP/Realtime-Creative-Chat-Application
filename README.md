@@ -1,5 +1,7 @@
 # Realtime-Creative-Chat-Application-Using-Socket.io-Node.js-and-React.js
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2976baee-c057-4a62-baf3-7972a3f8b619/deploy-status)](https://app.netlify.com/sites/pappuportfolio/deploys)
+
 #   this is also in the server do use it is free to all of you
 #   https://realmechat.netlify.com/
 
@@ -17,7 +19,5 @@ is you have any query than please let me know you problem
 <img src="Screenshot (717).png">
 <img src="Screenshot (718).png">
 
-# inp
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2976baee-c057-4a62-baf3-7972a3f8b619/deploy-status)](https://app.netlify.com/sites/pappuportfolio/deploys)
 
 thank you 
