@@ -15,6 +15,7 @@ Clone the project on your machine and go to the server directory.
 ## How to contribute
 Clone the project and run npm install
 After setting up the project you can work and new feature and pull a request for the same
+thank you
 
 # ScreenShots
 <img src="Screenshot (714).png">
